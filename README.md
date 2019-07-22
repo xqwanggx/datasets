@@ -1,2 +1,2 @@
 # datasets
-some images or others datasets
+some images datasets or others datasets
